@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="intel-innersource" fetch="ssh://git@github.com/intel-innersource"/>
+  <default revision="master"
+           remote="intel-innersource"
+           sync-j="32"/>
+
+  <project name="applications.ai.gpu.tools.profiling-tools-cicd" revision="master_next"/>
+  <project name="applications.analyzers.profilingtoolsinterfaces.sdk" remote="intel-innersource" revision="blublublu"/>
+</manifest>
