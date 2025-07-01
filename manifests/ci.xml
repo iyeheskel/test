@@ -6,5 +6,5 @@
            sync-j="32"/>
 
   <project name="applications.ai.gpu.tools.profiling-tools-cicd" revision="master_next"/>
-  <project name="applications.analyzers.profilingtoolsinterfaces.sdk" remote="intel-innersource" revision="blublublu"/>
+  <project name="applications.analyzers.profilingtoolsinterfaces.sdk" remote="intel-innersource" revision="0bec4b664a576315e021c80dfae605beac74882c"/>
 </manifest>
